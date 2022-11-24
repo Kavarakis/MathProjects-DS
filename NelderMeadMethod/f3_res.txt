@@ -1,0 +1,145 @@
+Point proposal 0: 0.14142135623730953
+Passed 2 iterations, current best point:  11.773125 [0.2 0. ] 11.773125
+Passed 5 iterations, current best point:  9.50976116 [ 0.4 -0.1] 9.50976116
+Passed 10 iterations, current best point:  7.430695559999999 [ 0.6 -0.4] 7.430695559999999
+Passed 50 iterations, current best point:  0.5006319525000054 [2.05 0.1 ] 0.5006319525000054
+Passed 100 iterations, current best point:  3.668992634071665e-07 [2.99958316 0.49977532] 3.668992634071665e-07
+In 0.1 seconds completed 518 iterations [3.  0.5],0.0
+In 1 seconds completed 5508 iterations [3.  0.5],0.0
+In 2 seconds completed 11053 iterations [3.  0.5],0.0
+11053. iteration, current best point: 0.0, max distance between points: 0.0, point [3.  0.5], value 0.0
+---------
+
+Point proposal 1: 0.5857864376269051
+Passed 2 iterations, current best point:  4.816204082917038 [1.41421356 0.58578644] 4.816204082917038
+Passed 5 iterations, current best point:  0.8755445766511115 [1.82842712 0.17157288] 0.8755445766511115
+Passed 10 iterations, current best point:  0.535668717021303 [2.03553391 0.27512627] 0.535668717021303
+Passed 50 iterations, current best point:  0.020749430072808977 [2.71510303 0.4336924 ] 0.020749430072808977
+Passed 100 iterations, current best point:  0.020749430072808977 [2.71510303 0.4336924 ] 0.020749430072808977
+In 0.1 seconds completed 572 iterations [2.71510303 0.4336924 ],0.020749430072808977
+In 1 seconds completed 5672 iterations [2.71510303 0.4336924 ],0.020749430072808977
+In 2 seconds completed 11529 iterations [2.71510303 0.4336924 ],0.020749430072808977
+11529. iteration, current best point: 0.020749430072808977, max distance between points: 0.8226221491338346, point [2.71510303 0.4336924 ], value 0.020749430072808977
+---------
+
+Point proposal 2: 0.9999999999999999
+Passed 2 iterations, current best point:  2.4693677893638983 [ 2.06066017 -0.41421356] 2.4693677893638983
+Passed 5 iterations, current best point:  1.7387844696188188 [ 1.53033009 -0.06066017] 1.7387844696188188
+Passed 10 iterations, current best point:  0.11841630879203896 [2.41421356 0.29289322] 0.11841630879203896
+Passed 50 iterations, current best point:  0.09510444901611617 [2.87687132 0.53319904] 0.09510444901611617
+Passed 100 iterations, current best point:  0.09510444901611617 [2.87687132 0.53319904] 0.09510444901611617
+In 0.1 seconds completed 574 iterations [2.87687132 0.53319904],0.09510444901611617
+In 1 seconds completed 5852 iterations [2.87687132 0.53319904],0.09510444901611617
+In 2 seconds completed 11757 iterations [2.87687132 0.53319904],0.09510444901611617
+11757. iteration, current best point: 0.09510444901611617, max distance between points: 0.9839570656894187, point [2.87687132 0.53319904], value 0.09510444901611617
+---------
+
+Point proposal 3: 2.23606797749979
+Passed 2 iterations, current best point:  14.203125 [1. 1.] 14.203125
+Passed 5 iterations, current best point:  14.203125 [1. 1.] 14.203125
+Passed 10 iterations, current best point:  14.203125 [1. 1.] 14.203125
+Passed 50 iterations, current best point:  14.203125 [1. 1.] 14.203125
+Passed 100 iterations, current best point:  14.203125 [1. 1.] 14.203125
+In 0.1 seconds completed 577 iterations [1. 1.],14.203125
+In 1 seconds completed 5897 iterations [1. 1.],14.203125
+In 2 seconds completed 11747 iterations [1. 1.],14.203125
+11747. iteration, current best point: 14.203125, max distance between points: 7.648529270389178, point [1. 1.], value 14.203125
+---------
+
+Point proposal 4: 4.0
+Passed 2 iterations, current best point:  4600.6705496869 [2.82842712 2.82842712] 4600.6705496869
+Passed 5 iterations, current best point:  20.37379841205245 [3.18198052 1.06066017] 20.37379841205245
+Passed 10 iterations, current best point:  0.4169634065509136 [2.15999025 0.33698058] 0.4169634065509136
+Passed 50 iterations, current best point:  3.7600209682387224e-11 [3.00001378 0.50000398] 3.7600209682387224e-11
+Passed 100 iterations, current best point:  3.306745175283555e-23 [3.  0.5] 3.306745175283555e-23
+In 0.1 seconds completed 549 iterations [3.  0.5],0.0
+In 1 seconds completed 5544 iterations [3.  0.5],0.0
+In 2 seconds completed 11072 iterations [3.  0.5],0.0
+11072. iteration, current best point: 0.0, max distance between points: 0.0, point [3.  0.5], value 0.0
+---------
+
+
+---------------------
+ f3 - GD: 
+---------------------
+
+For 2 steps:
+gradient_descent: 12.82041911170295
+Polyak: 12.819820947260606
+Nesterov: 12.81986032709688
+Adagrad: 4.658754195226511
+Newton: 6.953806980725694
+BFGS: 2.893253247808078
+For 5 steps:
+gradient_descent: 11.313850424701597
+Polyak: 11.312187762274494
+Nesterov: 11.312280195401097
+Adagrad: 1.1064235770397797
+Newton: 52.92053883945933
+BFGS: 0.32154678229248695
+For 10 steps:
+gradient_descent: 9.614349689512107
+Polyak: 9.611962907425536
+Nesterov: 9.612064079445993
+Adagrad: 0.24488816845407535
+Newton: 6.010083151422932
+/home/kavarakis/anaconda3/envs/mlds1/lib/python3.8/site-packages/scipy/optimize/linesearch.py:327: LineSearchWarning: The line search algorithm did not converge
+  warn('The line search algorithm did not converge', LineSearchWarning)
+Line Search of BFGS Failed at point: [2.52057471 0.35902838]
+BFGS: 0.06519352038982973
+For 100 steps:
+gradient_descent: 2.2907124946120985
+Polyak: 2.2883264055053036
+Nesterov: 2.2883305651300607
+Adagrad: 0.0792547411638786
+Newton: 5.577239468755107
+Line Search of BFGS Failed at point: [2.52057471 0.35902838]
+BFGS: 0.06519352038982973
+
+For time of 0.1 sec.
+-----------------------
+
+ELAPSED: 0.1000063419342041
+Gradient_descent(11147 steps) 0.07925474085580933
+ELAPSED: 0.10000085830688477
+Polyak(9927 steps) 0.0792547408571222
+ELAPSED: 0.10001087188720703
+Nesterov(8527 steps) 0.07925474091342882
+ELAPSED: 0.10000801086425781
+Adagrad(9308 steps) 0.07925474085575102
+ELAPSED: 0.10000133514404297
+Newton(8557 steps) 3.893188889449108
+Line Search of BFGS Failed at point: [2.52057471 0.35902838]
+BFGS(8 steps) 0.06519352038982973
+
+For time of 1 sec.
+-----------------------
+
+ELAPSED: 1.0000040531158447
+Gradient_descent(115569 steps) 0.07925474085578305
+ELAPSED: 1.0000057220458984
+Polyak(98424 steps) 0.07925474085578305
+ELAPSED: 1.0000019073486328
+Nesterov(84225 steps) 0.07925474085578305
+ELAPSED: 1.0000059604644775
+Adagrad(92278 steps) 0.07925474085575102
+ELAPSED: 1.0000035762786865
+Newton(85452 steps) 3.8931888894491253
+Line Search of BFGS Failed at point: [2.52057471 0.35902838]
+BFGS(8 steps) 0.06519352038982973
+
+For time of 2 sec.
+-----------------------
+
+ELAPSED: 2.000000476837158
+Gradient_descent(230516 steps) 0.07925474085578305
+ELAPSED: 2.0000009536743164
+Polyak(198357 steps) 0.07925474085578305
+ELAPSED: 2.0000009536743164
+Nesterov(169972 steps) 0.07925474085578305
+ELAPSED: 2.000009059906006
+Adagrad(184771 steps) 0.07925474085575102
+ELAPSED: 2.0000009536743164
+Newton(171022 steps) 3.8931888894491253
+Line Search of BFGS Failed at point: [2.52057471 0.35902838]
+BFGS(8 steps) 0.06519352038982973

@@ -1,0 +1,59 @@
+Point proposal 0: 0.14142135623730953
+Passed 2 iterations, current best point:  0.0 [0. 0. 0.] 0.0
+Passed 5 iterations, current best point:  -0.07111111111111112 [-0.03333333 -0.06666667  0.1       ] -0.07111111111111112
+Passed 10 iterations, current best point:  -0.16815562781193022 [-0.10390947 -0.15946502  0.14766804] -0.16815562781193022
+Passed 50 iterations, current best point:  -0.19791647773693227 [-0.16650487 -0.22906689  0.16648596] -0.19791647773693227
+Passed 100 iterations, current best point:  -0.1979166666666184 [-0.16666671 -0.22916668  0.16666681] -0.1979166666666184
+In 0.1 seconds completed 514 iterations [-0.16666667 -0.22916667  0.16666667],-0.1979166666666667
+In 1 seconds completed 5229 iterations [-0.16666667 -0.22916667  0.16666667],-0.1979166666666667
+In 2 seconds completed 10474 iterations [-0.16666667 -0.22916667  0.16666667],-0.1979166666666667
+10474. iteration, current best point: -0.1979166666666667, max distance between points: 0.0, point [-0.16666667 -0.22916667  0.16666667], value -0.1979166666666667
+---------
+
+Point proposal 1: 0.5857864376269051
+Passed 2 iterations, current best point:  0.0 [0. 0. 0.] 0.0
+Passed 5 iterations, current best point:  0.0 [0. 0. 0.] 0.0
+Passed 10 iterations, current best point:  -0.1266901584752092 [-0.0748951  -0.13299295  0.15763837] -0.1266901584752092
+Passed 50 iterations, current best point:  -0.19791655238928832 [-0.16662228 -0.22901161  0.16666094] -0.19791655238928832
+Passed 100 iterations, current best point:  -0.1979166666666645 [-0.16666666 -0.22916667  0.16666665] -0.1979166666666645
+In 0.1 seconds completed 540 iterations [-0.16666667 -0.22916667  0.16666667],-0.1979166666666667
+In 1 seconds completed 5341 iterations [-0.16666667 -0.22916667  0.16666667],-0.1979166666666667
+In 2 seconds completed 10680 iterations [-0.16666667 -0.22916667  0.16666667],-0.1979166666666667
+10680. iteration, current best point: -0.1979166666666667, max distance between points: 0.0, point [-0.16666667 -0.22916667  0.16666667], value -0.1979166666666667
+---------
+
+Point proposal 2: 1.0
+Passed 2 iterations, current best point:  0.0 [0. 0. 0.] 0.0
+Passed 5 iterations, current best point:  0.0 [0. 0. 0.] 0.0
+Passed 10 iterations, current best point:  0.0 [0. 0. 0.] 0.0
+Passed 50 iterations, current best point:  -0.19791645092024665 [-0.16650591 -0.22907759  0.16642513] -0.19791645092024665
+Passed 100 iterations, current best point:  -0.19791666666653843 [-0.1666666  -0.22916662  0.16666642] -0.19791666666653843
+In 0.1 seconds completed 539 iterations [-0.16666667 -0.22916667  0.16666667],-0.19791666666666669
+In 1 seconds completed 5322 iterations [-0.16666667 -0.22916667  0.16666667],-0.19791666666666669
+In 2 seconds completed 10618 iterations [-0.16666667 -0.22916667  0.16666667],-0.19791666666666669
+10618. iteration, current best point: -0.19791666666666669, max distance between points: 0.0, point [-0.16666667 -0.22916667  0.16666667], value -0.19791666666666669
+---------
+
+Point proposal 3: 2.23606797749979
+Passed 2 iterations, current best point:  0.0 [0. 0. 0.] 0.0
+Passed 5 iterations, current best point:  0.0 [0. 0. 0.] 0.0
+Passed 10 iterations, current best point:  -0.11732021688660416 [-0.19469079 -0.22926612  0.04232496] -0.11732021688660416
+Passed 50 iterations, current best point:  -0.19791633900585698 [-0.16676902 -0.22944785  0.16682369] -0.19791633900585698
+Passed 100 iterations, current best point:  -0.19791666369221578 [-0.16668399 -0.22918651  0.16670334] -0.19791666369221578
+In 0.1 seconds completed 553 iterations [-0.16666667 -0.22916667  0.16666667],-0.1979166666666667
+In 1 seconds completed 5488 iterations [-0.16666667 -0.22916667  0.16666667],-0.1979166666666667
+In 2 seconds completed 10966 iterations [-0.16666667 -0.22916667  0.16666667],-0.1979166666666667
+10966. iteration, current best point: -0.1979166666666667, max distance between points: 3.925231146709438e-17, point [-0.16666667 -0.22916667  0.16666667], value -0.1979166666666667
+---------
+
+Point proposal 4: 4.0
+Passed 2 iterations, current best point:  0.0 [0. 0. 0.] 0.0
+Passed 5 iterations, current best point:  0.0 [0. 0. 0.] 0.0
+Passed 10 iterations, current best point:  0.0 [0. 0. 0.] 0.0
+Passed 50 iterations, current best point:  -0.1979154445922871 [-0.16705145 -0.22974886  0.16696592] -0.1979154445922871
+Passed 100 iterations, current best point:  -0.1979166666666522 [-0.16666665 -0.22916662  0.16666659] -0.1979166666666522
+In 0.1 seconds completed 539 iterations [-0.16666667 -0.22916667  0.16666667],-0.19791666666666669
+In 1 seconds completed 5325 iterations [-0.16666667 -0.22916667  0.16666667],-0.19791666666666669
+In 2 seconds completed 10628 iterations [-0.16666667 -0.22916667  0.16666667],-0.19791666666666669
+10628. iteration, current best point: -0.19791666666666669, max distance between points: 0.0, point [-0.16666667 -0.22916667  0.16666667], value -0.19791666666666669
+---------

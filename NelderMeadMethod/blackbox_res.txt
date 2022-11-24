@@ -1,0 +1,150 @@
+x0:[[0.  0.  0. ]
+ [0.1 0.  0. ]
+ [0.  0.1 0. ]
+ [0.  0.  0.1]] | Func(i=1)-------------
+
+In 0.1 seconds completed 1 iterations [0.  0.  0.1],3.70806023217021
+In 1 seconds completed 1 iterations [0.  0.  0.1],3.70806023217021
+In 2 seconds completed 1 iterations [0.  0.  0.1],3.70806023217021
+1. iteration, current best point: 3.70806023217021, max distance between points: 0.11547005383792515, point [0.  0.  0.1], value 3.70806023217021
+i=1 x=[0.06666667 0.06666667 0.06666667],y=3.37900798081364
+x0:[[0.         0.         0.        ]
+ [0.41421356 0.         0.        ]
+ [0.         0.41421356 0.        ]
+ [0.         0.         0.41421356]] | Func(i=1)-------------
+
+In 0.1 seconds completed 1 iterations [0.         0.         0.41421356],2.88575519275999
+In 1 seconds completed 1 iterations [0.         0.         0.41421356],2.88575519275999
+In 2 seconds completed 1 iterations [0.         0.         0.41421356],2.88575519275999
+1. iteration, current best point: 2.88575519275999, max distance between points: 0.47829262347620066, point [0.         0.         0.41421356], value 2.88575519275999
+i=1 x=[0.27614237 0.27614237 0.27614237],y=1.92938617920243
+x0:[[0.         0.         0.        ]
+ [0.70710678 0.         0.        ]
+ [0.         0.70710678 0.        ]
+ [0.         0.         0.70710678]] | Func(i=1)-------------
+
+In 0.1 seconds completed 1 iterations [0.         0.         0.70710678],2.88885336805616
+In 1 seconds completed 1 iterations [0.         0.         0.70710678],2.88885336805616
+In 2 seconds completed 1 iterations [0.         0.         0.70710678],2.88885336805616
+1. iteration, current best point: 2.88885336805616, max distance between points: 0.39086797998528583, point [0.         0.         0.70710678], value 2.88885336805616
+i=1 x=[0.11785113 0.35355339 0.11785113],y=2.80422062813317
+x0:[[0.         0.         0.        ]
+ [2.12132034 0.         0.        ]
+ [0.         0.70710678 0.        ]
+ [0.         0.         0.70710678]] | Func(i=1)-------------
+
+In 0.1 seconds completed 1 iterations [0.         0.         0.70710678],2.88885336805616
+In 1 seconds completed 1 iterations [0.         0.         0.70710678],2.88885336805616
+In 2 seconds completed 1 iterations [0.         0.         0.70710678],2.88885336805616
+1. iteration, current best point: 2.88885336805616, max distance between points: 1.0736748938937606, point [0.         0.         0.70710678], value 2.88885336805616
+i=1 x=[1.06066017 0.11785113 0.11785113],y=2.80870993979305
+x0:[[0.         0.         0.        ]
+ [2.82842712 0.         0.        ]
+ [0.         2.82842712 0.        ]
+ [0.         0.         2.82842712]] | Func(i=1)-------------
+
+In 0.1 seconds completed 1 iterations [0. 0. 0.],4.23535767784502
+In 1 seconds completed 1 iterations [0. 0. 0.],4.23535767784502
+In 2 seconds completed 1 iterations [0. 0. 0.],4.23535767784502
+1. iteration, current best point: 4.23535767784502, max distance between points: 1.5634719199411433, point [0. 0. 0.], value 4.23535767784502
+i=1 x=[0. 0. 0.],y=4.23535767784502
+x0:[[0.  0.  0. ]
+ [0.1 0.  0. ]
+ [0.  0.1 0. ]
+ [0.  0.  0.1]] | Func(i=2)-------------
+
+In 0.1 seconds completed 1 iterations [0.  0.  0.1],1787.48836645492
+In 1 seconds completed 1 iterations [0.  0.  0.1],1787.48836645492
+In 2 seconds completed 1 iterations [0.  0.  0.1],1787.48836645492
+1. iteration, current best point: 1787.48836645492, max distance between points: 0.11547005383792515, point [0.  0.  0.1], value 1787.48836645492
+i=2 x=[0.06666667 0.06666667 0.06666667],y=1584.03975093451
+x0:[[0.         0.         0.        ]
+ [0.41421356 0.         0.        ]
+ [0.         0.41421356 0.        ]
+ [0.         0.         0.41421356]] | Func(i=2)-------------
+
+In 0.1 seconds completed 1 iterations [0.41421356 0.         0.        ],1147.38924421737
+In 1 seconds completed 1 iterations [0.41421356 0.         0.        ],1147.38924421737
+In 2 seconds completed 1 iterations [0.41421356 0.         0.        ],1147.38924421737
+1. iteration, current best point: 1147.38924421737, max distance between points: 0.47829262347620066, point [0.41421356 0.         0.        ], value 1147.38924421737
+i=2 x=[0.27614237 0.27614237 0.27614237],y=605.219128581954
+x0:[[0.         0.         0.        ]
+ [0.70710678 0.         0.        ]
+ [0.         0.70710678 0.        ]
+ [0.         0.         0.70710678]] | Func(i=2)-------------
+
+In 0.1 seconds completed 1 iterations [0.70710678 0.         0.        ],720.580297663758
+In 1 seconds completed 1 iterations [0.70710678 0.         0.        ],720.580297663758
+In 2 seconds completed 1 iterations [0.70710678 0.         0.        ],720.580297663758
+1. iteration, current best point: 720.580297663758, max distance between points: 0.816496580927726, point [0.70710678 0.         0.        ], value 720.580297663758
+i=2 x=[0.47140452 0.47140452 0.47140452],y=180.166355452673
+x0:[[0.         0.         0.        ]
+ [2.12132034 0.         0.        ]
+ [0.         0.70710678 0.        ]
+ [0.         0.         0.70710678]] | Func(i=2)-------------
+
+In 0.1 seconds completed 1 iterations [2.12132034 0.         0.        ],70.0274065090349
+In 1 seconds completed 1 iterations [2.12132034 0.         0.        ],70.0274065090349
+In 2 seconds completed 1 iterations [2.12132034 0.         0.        ],70.0274065090349
+1. iteration, current best point: 70.0274065090349, max distance between points: 2.345207879911715, point [2.12132034 0.         0.        ], value 70.0274065090349
+i=2 x=[2.12132034 0.         0.        ],y=70.0274065090349
+x0:[[0.         0.         0.        ]
+ [2.82842712 0.         0.        ]
+ [0.         2.82842712 0.        ]
+ [0.         0.         2.82842712]] | Func(i=2)-------------
+
+In 0.1 seconds completed 1 iterations [2.82842712 0.         0.        ],128.860227703278
+In 1 seconds completed 1 iterations [2.82842712 0.         0.        ],128.860227703278
+In 2 seconds completed 1 iterations [2.82842712 0.         0.        ],128.860227703278
+1. iteration, current best point: 128.860227703278, max distance between points: 4.69041575982343, point [2.82842712 0.         0.        ], value 128.860227703278
+i=2 x=[2.82842712 0.         0.        ],y=128.860227703278
+x0:[[0.  0.  0. ]
+ [0.1 0.  0. ]
+ [0.  0.1 0. ]
+ [0.  0.  0.1]] | Func(i=3)-------------
+
+In 0.1 seconds completed 1 iterations [0.  0.  0.1],1.49455891723777
+In 1 seconds completed 1 iterations [0.  0.  0.1],1.49455891723777
+In 2 seconds completed 1 iterations [0.  0.  0.1],1.49455891723777
+1. iteration, current best point: 1.49455891723777, max distance between points: 0.11547005383792515, point [0.  0.  0.1], value 1.49455891723777
+i=3 x=[0.06666667 0.06666667 0.06666667],y=1.45672295247246
+x0:[[0.         0.         0.        ]
+ [0.41421356 0.         0.        ]
+ [0.         0.41421356 0.        ]
+ [0.         0.         0.41421356]] | Func(i=3)-------------
+
+In 0.1 seconds completed 1 iterations [0.         0.         0.41421356],1.34144036614427
+In 1 seconds completed 1 iterations [0.         0.         0.41421356],1.34144036614427
+In 2 seconds completed 1 iterations [0.         0.         0.41421356],1.34144036614427
+1. iteration, current best point: 1.34144036614427, max distance between points: 0.47829262347620066, point [0.         0.         0.41421356], value 1.34144036614427
+i=3 x=[0.27614237 0.27614237 0.27614237],y=1.19635407297065
+x0:[[0.         0.         0.        ]
+ [0.70710678 0.         0.        ]
+ [0.         0.70710678 0.        ]
+ [0.         0.         0.70710678]] | Func(i=3)-------------
+
+In 0.1 seconds completed 1 iterations [0.         0.         0.70710678],1.23589062924687
+In 1 seconds completed 1 iterations [0.         0.         0.70710678],1.23589062924687
+In 2 seconds completed 1 iterations [0.         0.         0.70710678],1.23589062924687
+1. iteration, current best point: 1.23589062924687, max distance between points: 0.816496580927726, point [0.         0.         0.70710678], value 1.23589062924687
+i=3 x=[0.47140452 0.47140452 0.47140452],y=1.02287409044909
+x0:[[0.         0.         0.        ]
+ [2.12132034 0.         0.        ]
+ [0.         0.70710678 0.        ]
+ [0.         0.         0.70710678]] | Func(i=3)-------------
+
+In 0.1 seconds completed 1 iterations [0.         0.         0.70710678],1.23589062924687
+In 1 seconds completed 1 iterations [0.         0.         0.70710678],1.23589062924687
+In 2 seconds completed 1 iterations [0.         0.         0.70710678],1.23589062924687
+1. iteration, current best point: 1.23589062924687, max distance between points: 1.0736748938937606, point [0.         0.         0.70710678], value 1.23589062924687
+i=3 x=[1.06066017 0.11785113 0.11785113],y=1.22192026062718
+x0:[[0.         0.         0.        ]
+ [2.82842712 0.         0.        ]
+ [0.         2.82842712 0.        ]
+ [0.         0.         2.82842712]] | Func(i=3)-------------
+
+In 0.1 seconds completed 1 iterations [0. 0. 0.],1.54971051422987
+In 1 seconds completed 1 iterations [0. 0. 0.],1.54971051422987
+In 2 seconds completed 1 iterations [0. 0. 0.],1.54971051422987
+1. iteration, current best point: 1.54971051422987, max distance between points: 1.5634719199411433, point [0. 0. 0.], value 1.54971051422987
+i=3 x=[0.47140452 1.41421356 0.47140452],y=1.00329104050709
